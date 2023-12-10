@@ -11,6 +11,10 @@ I am Stefanus Albert Wilson, an undergraduate student majoring in Computer Scien
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
  ![Dart](https://img.shields.io/badge/Dart-3fb1ec?style=for-the-badge&logo=dart&logoColor=white)
+ ![Swift](https://img.shields.io/badge/Swift-e84f36?style=for-the-badge&logo=swift&logoColor=white)
+ ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+
 
 ### Web Development 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,7 +24,7 @@ I am Stefanus Albert Wilson, an undergraduate student majoring in Computer Scien
 
 
 ### Mobile App Development
-![Swift](https://img.shields.io/badge/Swift-e84f36?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0271fd?style=for-the-badge&logo=swift&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-015496?style=for-the-badge&logo=flutter&logoColor=white)
 
 
