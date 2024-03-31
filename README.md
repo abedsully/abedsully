@@ -1,6 +1,13 @@
 # Hi Everyone 👋
 
-I am Stefanus Albert Wilson, an undergraduate student majoring in Computer Science at Bina Nusantara University. Since March 2024, I've been employed as a part time programmer at Bina Nusantara IT Division. I love Software and wish that I could pursue my career in Mobile Application Development specializing in iOS Development.
+### I am Stefanus Albert Wilson. Here's a brief overview about me:
+• [ WWDC24 Scholar](https://www.wwdcscholars.com/s/733897F2-0FE6-4E59-A716-88E5D3DFF5EC/2024)
+
+• 👔 Programmer at Bina Nusantara IT Division
+
+• 🏫 Sophomore at Binus University
+
+
 
 # My Technology Stack
 
