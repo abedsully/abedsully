@@ -1,7 +1,7 @@
 # Hi Everyone 👋
 
 ### I am Stefanus Albert Wilson. Here's a brief overview about me:
-• [ WWDC24 Scholar](https://www.wwdcscholars.com/s/733897F2-0FE6-4E59-A716-88E5D3DFF5EC/2024)
+• [ WWDC24 Swift Student Challenge Winner 2024](https://www.wwdcscholars.com/s/733897F2-0FE6-4E59-A716-88E5D3DFF5EC/2024)
 
 • 👔 Programmer at Bina Nusantara IT Division
 
