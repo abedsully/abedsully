@@ -8,7 +8,7 @@
 
 -  🏫 Sophomore at Binus University
 
--  🌐 Learn more about me at [stefanuswilson.com](https::/wwww.stefanuswilson.com)
+-  🌐 Learn more about me at [stefanuswilson.com](https://www.stefanuswilson.com)
 
 #### Usually, I code with:
 
