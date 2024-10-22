@@ -25,7 +25,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="35" height="35"/>&nbsp;
   <img src="https://img.icons8.com/color/512/swiftui.png" title="SwiftUI" alt="SwiftUI" width="35" height="35" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="35" height="35"/>&nbsp;
-   <br/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="ASP NET" alt="ASP NET" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="35" height="35"/>&nbsp;
